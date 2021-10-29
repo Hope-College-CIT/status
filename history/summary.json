@@ -4,18 +4,20 @@
     "url": "https://hope.edu/",
     "icon": "https://favicons.githubusercontent.com/hope.edu",
     "slug": "hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5972,
-    "timeDay": 5972,
+    "timeDay": 6788,
     "timeWeek": 5972,
     "timeMonth": 5972,
     "timeYear": 5972,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-29": 0
+    }
   },
   {
     "name": "blogs.hope.edu",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1080,
-    "timeDay": 1080,
+    "timeDay": 991,
     "timeWeek": 1080,
     "timeMonth": 1080,
     "timeYear": 1080,
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 567,
+    "timeDay": 271,
     "timeWeek": 567,
     "timeMonth": 567,
     "timeYear": 567,
