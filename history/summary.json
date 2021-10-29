@@ -4,19 +4,19 @@
     "url": "https://hope.edu/",
     "icon": "https://favicons.githubusercontent.com/hope.edu",
     "slug": "hope-edu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5972,
-    "timeDay": 6788,
-    "timeWeek": 5972,
-    "timeMonth": 5972,
-    "timeYear": 5972,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 4809,
+    "timeDay": 4054,
+    "timeWeek": 4809,
+    "timeMonth": 4809,
+    "timeYear": 4809,
     "dailyMinutesDown": {
-      "2021-10-29": 0
+      "2021-10-29": 18
     }
   },
   {
