@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/hope.edu",
     "slug": "hope-edu",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 3797,
-    "timeDay": 10791,
-    "timeWeek": 3874,
-    "timeMonth": 3797,
-    "timeYear": 3797,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 3906,
+    "timeDay": 5747,
+    "timeWeek": 4735,
+    "timeMonth": 3906,
+    "timeYear": 3906,
     "dailyMinutesDown": {
       "2021-10-29": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1148,
-    "timeDay": 1237,
-    "timeWeek": 1163,
-    "timeMonth": 1148,
-    "timeYear": 1148,
+    "time": 1153,
+    "timeDay": 1220,
+    "timeWeek": 1183,
+    "timeMonth": 1153,
+    "timeYear": 1153,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 545,
-    "timeWeek": 476,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 472,
+    "timeDay": 580,
+    "timeWeek": 484,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   }
 ]
