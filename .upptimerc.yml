@@ -9,6 +9,8 @@ sites:
     url: https://blogs.hope.edu/
   - name: forms.hope.edu
     url: https://forms.hope.edu
+  - name: 1Hope Login
+    url: https://1.hope.edu/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
