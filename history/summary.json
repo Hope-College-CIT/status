@@ -4,18 +4,19 @@
     "url": "https://hope.edu/",
     "icon": "https://favicons.githubusercontent.com/hope.edu",
     "slug": "hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 2939,
-    "timeDay": 1404,
+    "timeDay": 1348,
     "timeWeek": 1919,
     "timeMonth": 2818,
     "timeYear": 2939,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-11-26": 17,
       "2021-10-29": 18
     }
