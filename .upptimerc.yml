@@ -8,9 +8,21 @@ sites:
   - name: blogs.hope.edu
     url: https://blogs.hope.edu/
   - name: forms.hope.edu
-    url: https://forms.hope.edu
+    url: https://forms.hope.edu/
   - name: 1Hope Login
     url: https://sso.hope.edu/
+  - name: PLUS Homepage
+    url: https://plus.hope.edu/
+  - name: PLUS Login
+    url: https://prodbannersso.hope.edu/ssomanager/c/SSB
+  - name: Course Schedule
+    url: https://schedule.hope.edu/
+  - name: Schedule Planner
+    url: https://hope.collegescheduler.com/entry
+  - name: Degree Works
+    url: https://degreeworks.hope.edu/?as-student=true
+  
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
