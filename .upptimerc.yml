@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.herzog.tech
   # baseUrl: /your-repo-name
-  theme: night
+  theme: hope
   logoUrl: https://hope.edu/_resources/img/logo-color.svg
   name: Upptime Test
   introTitle: "[CIT](https://hope.edu/cit) continually monitors Hope systems."
