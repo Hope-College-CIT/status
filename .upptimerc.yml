@@ -33,7 +33,7 @@ status-website:
   logoUrl: https://hope.edu/_resources/img/logo-color.svg
   name: Upptime Test
   introTitle: "[CIT](https://hope.edu/cit) continually monitors Hope systems."
-  introMessage: "This tool is both an internal monitoring system for us, as well as a public statuspage to keep you, the user, in the know."
+  introMessage: "This tool is both an internal monitoring system for us, as well as a public statuspage to keep the Hope community in the know."
   navbar:
     - title: Status
       href: /
