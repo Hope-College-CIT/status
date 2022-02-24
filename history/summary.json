@@ -4,9 +4,9 @@
     "url": "https://hope.edu/",
     "icon": "https://favicons.githubusercontent.com/hope.edu",
     "slug": "hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 2191,
     "timeYear": 2418,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2022-02-20": 23,
       "2021-11-26": 17,
       "2021-10-29": 18
@@ -81,18 +82,18 @@
     "icon": "https://favicons.githubusercontent.com/plus.hope.edu",
     "slug": "plus-homepage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 451,
     "timeDay": 550,
     "timeWeek": 460,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 21
     }
   },
   {
@@ -101,18 +102,18 @@
     "icon": "https://favicons.githubusercontent.com/prodbannersso.hope.edu",
     "slug": "plus-login",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 604,
     "timeDay": 601,
     "timeWeek": 598,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 21
     }
   },
   {
@@ -120,19 +121,19 @@
     "url": "https://schedule.hope.edu/",
     "icon": "https://favicons.githubusercontent.com/schedule.hope.edu",
     "slug": "course-schedule",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 510,
-    "timeWeek": 416,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 411,
+    "timeDay": 599,
+    "timeWeek": 457,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 21
     }
   },
   {
@@ -141,18 +142,18 @@
     "icon": "https://favicons.githubusercontent.com/hope.collegescheduler.com",
     "slug": "schedule-planner",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1353,
     "timeDay": 817,
     "timeWeek": 1423,
     "timeMonth": 1353,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 21
     }
   },
   {
