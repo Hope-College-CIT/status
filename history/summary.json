@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.45%",
     "time": 2291,
     "timeDay": 1174,
-    "timeWeek": 1808,
+    "timeWeek": 1899,
     "timeMonth": 1795,
     "timeYear": 2291,
     "dailyMinutesDown": {
@@ -68,11 +68,11 @@
     "icon": "https://favicons.githubusercontent.com/sso.hope.edu",
     "slug": "1-hope-login",
     "status": "up",
-    "uptime": "90.54%",
+    "uptime": "90.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.54%",
+    "uptimeYear": "90.56%",
     "time": 314,
     "timeDay": 337,
     "timeWeek": 350,
@@ -122,9 +122,9 @@
     "url": "https://prodbannersso.hope.edu/ssomanager/c/SSB",
     "icon": "https://favicons.githubusercontent.com/prodbannersso.hope.edu",
     "slug": "plus-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -134,6 +134,7 @@
     "timeMonth": 713,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2022-04-28": 0,
       "2022-02-24": 30
     }
   },
@@ -143,18 +144,18 @@
     "icon": "https://favicons.githubusercontent.com/schedule.hope.edu",
     "slug": "course-schedule",
     "status": "up",
-    "uptime": "28.94%",
+    "uptime": "28.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.94%",
+    "uptimeYear": "28.77%",
     "time": 473,
     "timeDay": 515,
     "timeWeek": 495,
     "timeMonth": 478,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-04-28": 17,
+      "2022-04-28": 660,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
@@ -239,9 +240,9 @@
     "url": "https://degreeworks.hope.edu/?as-student=true",
     "icon": "https://favicons.githubusercontent.com/degreeworks.hope.edu",
     "slug": "degree-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,6 +251,8 @@
     "timeWeek": 1325,
     "timeMonth": 1252,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   }
 ]
