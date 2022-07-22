@@ -1,7 +1,7 @@
 url: https://schedule.hope.edu/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-07-22T09:18:28.784Z
+status: up
+code: 200
+responseTime: 315
+lastUpdated: 2022-07-22T10:08:34.559Z
 startTime: Tue Feb 08 2022 14:40:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
