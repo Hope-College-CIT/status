@@ -21,6 +21,10 @@ sites:
     url: https://hope.collegescheduler.com/entry
   - name: Degree Works
     url: https://degreeworks.hope.edu/?as-student=true
+  - name: Spring 2023 Moodle
+    url: https://courses202301.hope.edu/
+  - name: Moodle Groups
+    url: https://groups.hope.edu/
   
     
 
