@@ -19,6 +19,8 @@ sites:
     url: https://blogs.hope.edu/
   - name: forms.hope.edu
     url: https://forms.hope.edu/
+  - name: B-lite
+    url: https://blite.hope.edu/
   - name: Course Schedule
     url: https://schedule.hope.edu/
   - name: Schedule Planner
