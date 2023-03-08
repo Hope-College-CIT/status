@@ -27,6 +27,8 @@ sites:
     url: https://hope.collegescheduler.com/entry
   - name: Degree Works
     url: https://degreeworks.hope.edu/?as-student=true
+  - name: EMS Web App
+    url: https://events.hope.edu/
   
     
 
