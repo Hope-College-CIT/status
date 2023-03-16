@@ -62,19 +62,19 @@
     "url": "https://groups.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/groups.hope.edu.ico",
     "slug": "moodle-groups",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 487,
-    "timeWeek": 412,
-    "timeMonth": 445,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 437,
+    "timeDay": 403,
+    "timeWeek": 400,
+    "timeMonth": 441,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-03-16": 0
+      "2023-03-16": 9
     }
   },
   {
