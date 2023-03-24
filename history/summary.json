@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses202301.hope.edu.ico",
     "slug": "spring-2023-moodle",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 438,
     "timeDay": 357,
     "timeWeek": 726,
     "timeMonth": 497,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-03-24": 10,
       "2023-03-21": 17
     }
   },
@@ -234,7 +233,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.64%",
+    "uptimeYear": "84.67%",
     "time": 563,
     "timeDay": 522,
     "timeWeek": 401,
@@ -363,9 +362,9 @@
     "url": "https://events.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/events.hope.edu.ico",
     "slug": "ems-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -375,6 +374,7 @@
     "timeMonth": 1203,
     "timeYear": 1203,
     "dailyMinutesDown": {
+      "2023-03-24": 0,
       "2023-03-10": 35
     }
   }
