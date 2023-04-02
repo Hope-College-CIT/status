@@ -13,7 +13,7 @@
     "time": 1892,
     "timeDay": 1382,
     "timeWeek": 1234,
-    "timeMonth": 2294,
+    "timeMonth": 2202,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2023-03-21": 17,
@@ -50,7 +50,7 @@
     "time": 432,
     "timeDay": 436,
     "timeWeek": 406,
-    "timeMonth": 491,
+    "timeMonth": 494,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2023-03-21": 17
@@ -61,18 +61,19 @@
     "url": "https://groups.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/groups.hope.edu.ico",
     "slug": "moodle-groups",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 510,
     "timeDay": 436,
     "timeWeek": 483,
-    "timeMonth": 575,
+    "timeMonth": 577,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2023-04-02": 0,
       "2023-03-21": 16
     }
   },
@@ -90,7 +91,7 @@
     "time": 311,
     "timeDay": 337,
     "timeWeek": 309,
-    "timeMonth": 417,
+    "timeMonth": 418,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2023-03-21": 16,
@@ -142,7 +143,7 @@
     "time": 765,
     "timeDay": 915,
     "timeWeek": 810,
-    "timeMonth": 1098,
+    "timeMonth": 986,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2023-03-09": 47,
@@ -173,7 +174,7 @@
     "time": 1081,
     "timeDay": 479,
     "timeWeek": 605,
-    "timeMonth": 646,
+    "timeMonth": 648,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2022-09-18": 73,
@@ -196,7 +197,7 @@
     "time": 421,
     "timeDay": 468,
     "timeWeek": 404,
-    "timeMonth": 386,
+    "timeMonth": 383,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2022-09-18": 73,
@@ -228,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/schedule.hope.edu.ico",
     "slug": "course-schedule",
     "status": "up",
-    "uptime": "81.46%",
+    "uptime": "81.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.93%",
+    "uptimeYear": "87.11%",
     "time": 561,
     "timeDay": 520,
     "timeWeek": 486,
