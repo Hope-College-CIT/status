@@ -244,7 +244,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.86%",
     "time": 561,
     "timeDay": 462,
     "timeWeek": 357,
@@ -283,8 +283,7 @@
       "2022-04-24": 1440,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
-      "2022-04-21": 1440,
-      "2022-04-20": 1440
+      "2022-04-21": 1440
     }
   },
   {
@@ -352,18 +351,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.hope.edu.ico",
     "slug": "ems-web-app",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.91%",
     "time": 1014,
     "timeDay": 1494,
     "timeWeek": 769,
     "timeMonth": 870,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-04-19": 9,
       "2023-04-05": 22,
       "2023-03-10": 35
     }
