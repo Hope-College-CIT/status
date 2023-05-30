@@ -5,6 +5,10 @@ repo: HopeStatus # The name of this repository
 sites:
   - name: hope.edu
     url: https://hope.edu/
+  - name: Fall 2023 Moodle
+    url: https://courses202308.hope.edu/
+  - name: Summer 2023 Moodle
+    url: https://courses202305.hope.edu/
   - name: Spring 2023 Moodle
     url: https://courses202301.hope.edu/
   - name: Moodle Groups
