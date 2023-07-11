@@ -9,8 +9,6 @@ sites:
     url: https://courses202308.hope.edu/
   - name: Summer 2023 Moodle
     url: https://courses202305.hope.edu/
-  - name: Spring 2023 Moodle
-    url: https://courses202301.hope.edu/
   - name: Moodle Groups
     url: https://groups.hope.edu/
   - name: 1Hope Login
@@ -29,8 +27,6 @@ sites:
     url: https://schedule.hope.edu/
   - name: Schedule Planner
     url: https://hope.collegescheduler.com/entry
-  - name: Degree Works
-    url: https://degreeworks.hope.edu/?as-student=true
   - name: EMS Web App
     url: https://events.hope.edu/
   
