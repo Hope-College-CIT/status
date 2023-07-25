@@ -13,6 +13,7 @@ sites:
     url: https://groups.hope.edu/
   - name: 1Hope Login
     url: https://sso.hope.edu/
+    maxRedirects: 5
     expectedStatusCodes:
       - 200
       - 201
