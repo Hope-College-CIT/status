@@ -12,7 +12,12 @@ sites:
   - name: Moodle Groups
     url: https://groups.hope.edu/
   - name: 1Hope Login
-    url: https://1.hope.edu/
+    url: https://sso.hope.edu/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
   - name: PLUS Homepage
     url: https://plus.hope.edu/
   - name: PLUS Login
