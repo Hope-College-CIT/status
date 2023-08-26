@@ -55,9 +55,9 @@
     "url": "https://courses202305.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/courses202305.hope.edu.ico",
     "slug": "summer-2023-moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,7 +66,9 @@
     "timeWeek": 359,
     "timeMonth": 354,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-26": 0
+    }
   },
   {
     "name": "Moodle Groups",
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.hope.edu.ico",
     "slug": "1-hope-login",
     "status": "down",
-    "uptime": "92.75%",
+    "uptime": "92.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "91.35%",
+    "uptimeYear": "91.23%",
     "time": 299,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-08-26": 12,
+      "2023-08-26": 626,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
@@ -288,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schedule.hope.edu.ico",
     "slug": "course-schedule",
     "status": "up",
-    "uptime": "86.26%",
+    "uptime": "86.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
