@@ -6,9 +6,9 @@
     "slug": "hope-edu",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1761,
     "timeDay": 6817,
@@ -16,7 +16,6 @@
     "timeMonth": 1727,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2023-09-09": 9,
       "2023-04-05": 35,
       "2023-03-21": 17,
       "2023-03-10": 35,
@@ -36,19 +35,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses202308.hope.edu.ico",
     "slug": "fall-2023-moodle",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 350,
     "timeWeek": 382,
     "timeMonth": 360,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2023-09-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Summer 2023 Moodle",
@@ -108,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-09-10": 13,
+      "2023-09-10": 25,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -229,9 +226,9 @@
     "url": "https://blogs.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.hope.edu.ico",
     "slug": "blogs-hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -241,6 +238,7 @@
     "timeMonth": 593,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2023-09-10": 0,
       "2022-09-18": 73,
       "2022-09-17": 174
     }
