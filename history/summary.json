@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1774,
-    "timeDay": 1028,
-    "timeWeek": 2212,
-    "timeMonth": 1949,
-    "timeYear": 1842,
+    "time": 1781,
+    "timeDay": 4603,
+    "timeWeek": 2315,
+    "timeMonth": 2055,
+    "timeYear": 1850,
     "dailyMinutesDown": {
       "2023-04-05": 35,
       "2023-03-21": 17,
@@ -25,8 +25,7 @@
       "2022-12-05": 36,
       "2022-10-25": 46,
       "2022-10-01": 34,
-      "2022-09-23": 202,
-      "2022-09-18": 30
+      "2022-09-23": 202
     }
   },
   {
@@ -35,19 +34,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses202308.hope.edu.ico",
     "slug": "fall-2023-moodle",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 343,
-    "timeWeek": 364,
-    "timeMonth": 362,
+    "timeDay": 414,
+    "timeWeek": 362,
+    "timeMonth": 365,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2023-09-17": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Summer 2023 Moodle",
@@ -60,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 292,
-    "timeWeek": 356,
-    "timeMonth": 386,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 490,
+    "timeWeek": 350,
+    "timeMonth": 391,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
@@ -79,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 564,
-    "timeDay": 346,
-    "timeWeek": 446,
-    "timeMonth": 429,
+    "timeDay": 401,
+    "timeWeek": 369,
+    "timeMonth": 430,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2023-05-23": 30,
@@ -96,18 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.hope.edu.ico",
     "slug": "1-hope-login",
     "status": "down",
-    "uptime": "89.56%",
+    "uptime": "89.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.07%",
-    "time": 302,
+    "uptimeYear": "85.05%",
+    "time": 301,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-09-17": 1342,
+      "2023-09-18": 13,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -163,8 +161,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 679,
       "2023-04-05": 17,
-      "2023-03-21": 16,
-      "2022-09-18": 72
+      "2023-03-21": 16
     }
   },
   {
@@ -179,9 +176,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
     "time": 546,
-    "timeDay": 344,
-    "timeWeek": 438,
-    "timeMonth": 537,
+    "timeDay": 507,
+    "timeWeek": 413,
+    "timeMonth": 542,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2023-08-23": 45,
@@ -192,8 +189,7 @@
       "2023-03-09": 47,
       "2023-02-23": 99,
       "2023-01-05": 60,
-      "2022-10-13": 32,
-      "2022-09-18": 72
+      "2022-10-13": 32
     }
   },
   {
@@ -208,9 +204,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.71%",
     "time": 758,
-    "timeDay": 653,
-    "timeWeek": 650,
-    "timeMonth": 778,
+    "timeDay": 999,
+    "timeWeek": 664,
+    "timeMonth": 790,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2023-08-25": 17,
@@ -225,8 +221,7 @@
       "2023-03-09": 47,
       "2023-02-23": 19,
       "2023-01-05": 51,
-      "2022-10-13": 22,
-      "2022-09-18": 71
+      "2022-10-13": 22
     }
   },
   {
@@ -240,14 +235,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 857,
-    "timeDay": 416,
-    "timeWeek": 602,
-    "timeMonth": 614,
+    "time": 856,
+    "timeDay": 768,
+    "timeWeek": 610,
+    "timeMonth": 608,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2023-09-10": 22,
-      "2022-09-18": 73
+      "2023-09-10": 22
     }
   },
   {
@@ -262,13 +256,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 397,
-    "timeDay": 316,
-    "timeWeek": 401,
-    "timeMonth": 409,
+    "timeDay": 441,
+    "timeWeek": 392,
+    "timeMonth": 408,
     "timeYear": 397,
-    "dailyMinutesDown": {
-      "2022-09-18": 73
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "B-lite",
@@ -281,11 +273,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
-    "time": 462,
-    "timeDay": 330,
-    "timeWeek": 432,
-    "timeMonth": 438,
-    "timeYear": 462,
+    "time": 463,
+    "timeDay": 581,
+    "timeWeek": 433,
+    "timeMonth": 446,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2023-08-25": 17,
       "2023-07-31": 34,
@@ -308,14 +300,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 603,
-    "timeDay": 374,
-    "timeWeek": 412,
-    "timeMonth": 514,
+    "timeDay": 478,
+    "timeWeek": 408,
+    "timeMonth": 521,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2023-07-30": 24,
-      "2023-04-05": 23,
-      "2022-09-18": 71
+      "2023-04-05": 23
     }
   },
   {
@@ -329,11 +320,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "99.66%",
-    "time": 1385,
-    "timeDay": 1392,
-    "timeWeek": 1260,
-    "timeMonth": 1214,
-    "timeYear": 1406,
+    "time": 1384,
+    "timeDay": 1035,
+    "timeWeek": 1274,
+    "timeMonth": 1204,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2023-08-24": 710,
       "2023-08-23": 229,
@@ -345,8 +336,7 @@
       "2023-01-25": 23,
       "2023-01-05": 60,
       "2022-11-07": 46,
-      "2022-10-13": 32,
-      "2022-09-18": 40
+      "2022-10-13": 32
     }
   },
   {
@@ -360,11 +350,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 862,
-    "timeDay": 582,
-    "timeWeek": 1023,
-    "timeMonth": 1082,
-    "timeYear": 862,
+    "time": 889,
+    "timeDay": 6795,
+    "timeWeek": 1498,
+    "timeMonth": 1259,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2023-04-05": 22,
       "2023-03-10": 35
