@@ -12,7 +12,7 @@ sites:
   - name: Moodle Groups
     url: https://groups.hope.edu/
   - name: 1Hope Login
-    url: https://sso.hope.edu/
+    url: https://1.hope.edu/
     maxRedirects: 5
     expectedStatusCodes:
       - 200
