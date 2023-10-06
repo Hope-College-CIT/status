@@ -5,6 +5,7 @@ repo: HopeStatus # The name of this repository
 sites:
   - name: hope.edu
     url: https://hope.edu/
+    maxResponseTime: 1800 # https://web.dev/ttfb/
   - name: Fall 2023 Moodle
     url: https://courses202308.hope.edu/
   - name: Summer 2023 Moodle
@@ -45,7 +46,7 @@ status-website:
   # baseUrl: /your-repo-name
   theme: hope
   logoUrl: https://hope.edu/_resources/img/logo-color.svg
-  name: Hope Status
+  name: Hope CIT Systems Status
   introTitle: "[CIT](https://hope.edu/cit) continually monitors Hope systems."
   introMessage: "This tool is both an internal monitoring system for us, as well as a public statuspage to keep the Hope community in the know."
   navbar:
