@@ -12,14 +12,14 @@ sites:
     url: https://courses202305.hope.edu/
   - name: Moodle Groups
     url: https://groups.hope.edu/
-  - name: 1Hope Login
-    url: https://mail.google.com/a/hope.edu/
-    maxRedirects: 10
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
+  # - name: 1Hope Login
+  #   url: https://mail.google.com/a/hope.edu/
+  #   maxRedirects: 10
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  #     - 301
+  #     - 302
   - name: PLUS Homepage
     url: https://plus.hope.edu/
   - name: PLUS Login
