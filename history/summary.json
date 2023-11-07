@@ -13,7 +13,7 @@
     "time": 1732,
     "timeDay": 1952,
     "timeWeek": 2094,
-    "timeMonth": 1556,
+    "timeMonth": 1557,
     "timeYear": 1683,
     "dailyMinutesDown": {
       "2023-11-06": 60,
@@ -33,19 +33,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses202308.hope.edu.ico",
     "slug": "fall-2023-moodle",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 367,
     "timeWeek": 405,
-    "timeMonth": 374,
+    "timeMonth": 373,
     "timeYear": 388,
-    "dailyMinutesDown": {
-      "2023-11-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Summer 2023 Moodle",
@@ -53,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses202305.hope.edu.ico",
     "slug": "summer-2023-moodle",
     "status": "down",
-    "uptime": "89.18%",
+    "uptime": "89.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.02%",
-    "uptimeYear": "89.18%",
+    "uptimeMonth": "42.85%",
+    "uptimeYear": "89.15%",
     "time": 408,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 378,
+    "timeMonth": 377,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-11-06": 1426,
+      "2023-11-07": 57,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -98,7 +97,7 @@
     "time": 530,
     "timeDay": 304,
     "timeWeek": 412,
-    "timeMonth": 448,
+    "timeMonth": 447,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2023-05-23": 30,
@@ -148,7 +147,7 @@
     "time": 768,
     "timeDay": 495,
     "timeWeek": 757,
-    "timeMonth": 720,
+    "timeMonth": 717,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-10-13": 29,
@@ -181,7 +180,7 @@
     "time": 744,
     "timeDay": 480,
     "timeWeek": 545,
-    "timeMonth": 521,
+    "timeMonth": 519,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2023-09-10": 22
@@ -201,7 +200,7 @@
     "time": 412,
     "timeDay": 350,
     "timeWeek": 495,
-    "timeMonth": 450,
+    "timeMonth": 443,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -247,7 +246,7 @@
     "time": 569,
     "timeDay": 356,
     "timeWeek": 357,
-    "timeMonth": 406,
+    "timeMonth": 405,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2023-07-30": 24,
@@ -268,7 +267,7 @@
     "time": 1420,
     "timeDay": 1293,
     "timeWeek": 5519,
-    "timeMonth": 1554,
+    "timeMonth": 1559,
     "timeYear": 1449,
     "dailyMinutesDown": {
       "2023-11-01": 18,
@@ -280,8 +279,7 @@
       "2023-03-09": 47,
       "2023-02-23": 99,
       "2023-01-25": 23,
-      "2023-01-05": 60,
-      "2022-11-07": 46
+      "2023-01-05": 60
     }
   },
   {
@@ -298,7 +296,7 @@
     "time": 808,
     "timeDay": 7447,
     "timeWeek": 2198,
-    "timeMonth": 694,
+    "timeMonth": 693,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2023-04-05": 22,
