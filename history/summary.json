@@ -33,19 +33,19 @@
     "url": "https://courses202308.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/courses202308.hope.edu.ico",
     "slug": "fall-2023-moodle",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 515,
-    "timeWeek": 436,
-    "timeMonth": 372,
+    "timeDay": 528,
+    "timeWeek": 448,
+    "timeMonth": 378,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-12-10": 1
+      "2023-12-10": 9
     }
   },
   {
@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-12-10": 1050,
+      "2023-12-10": 1059,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
