@@ -1,7 +1,7 @@
 url: https://schedule.hope.edu/
-status: down
-code: 500
-responseTime: 3331
-lastUpdated: 2023-12-14T05:58:20.782Z
+status: up
+code: 200
+responseTime: 581
+lastUpdated: 2023-12-14T06:22:42.043Z
 startTime: 2022-02-08T14:40:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
