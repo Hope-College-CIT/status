@@ -1,7 +1,7 @@
 url: https://prodbannersso.hope.edu/ssomanager/c/SSB
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2023-12-25T23:05:09.852Z
+status: down
+code: 503
+responseTime: 431
+lastUpdated: 2023-12-26T14:20:34.370Z
 startTime: 2022-02-08T14:40:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
