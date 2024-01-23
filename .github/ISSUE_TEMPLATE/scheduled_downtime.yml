@@ -1,0 +1,36 @@
+name: Scheduled Downtime
+description: Denote a scheduled downtime for service(s)
+title: 'Scheduled Downtime: '
+labels: ['maintenance']
+body:
+  - type: input
+    id: service
+    attributes:
+      label: Service(s)
+      description: What service(s) will be affected?
+      placeholder: e.g. "Banner" or "Campus Network"
+    validations:
+      required: true
+  - type: input
+    id: start
+    attributes:
+      label: Start Time
+      description: When will the downtime begin?
+      placeholder: 2024-01-01T12:00:00
+    validations:
+      required: true
+  - type: input
+    id: end
+    attributes:
+      label: End Time
+      description: When will the downtime end?
+      placeholder: 2020-01-01T16:00:00
+    validations:
+      required: true
+  - type: markdown
+    id: message
+    attributes:
+      label: Outage Message
+      description: |
+      What message should be displayed on the status page?
+      Conversational language, right to the point. Can be as simple as "CIT is investigating reports about this and will update soon".

@@ -1,8 +1,9 @@
 blank_issues_enabled: true
+issue_templates:
+  - name: Scheduled Downtime
+    template: scheduled_downtime.yml
+    about: CIT employee scheduling an upcoming downtime
 contact_links:
-  - name: Feature requests and ideas
-    url: https://github.com/upptime/upptime/discussions/new?category=ideas
-    about: Suggest an idea for this project
-  - name: Questions
-    url: https://github.com/upptime/upptime/discussions/new?category=q-a
-    about: Please ask and answer questions here
+  - name: Something not working?
+    url: mailto:cit@hope.edu
+    about: Email the Help Desk at cit@hope.edu
