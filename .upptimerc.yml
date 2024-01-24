@@ -28,6 +28,14 @@ sites:
     url: https://blogs.hope.edu/
   - name: forms.hope.edu
     url: https://forms.hope.edu/
+  - name: magazine.hope.edu
+    url: https://blogs.hope.edu/
+  - name: wths.hope.edu
+    url: https://wths.hope.edu/
+  - name: anchor.hope.edu
+    url: https://anchor.hope.edu/
+  - name: opus.hope.edu
+    url: https://opus.hope.edu/
   - name: B-lite
     url: https://blite.hope.edu/
   - name: Course Schedule
