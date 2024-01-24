@@ -44,6 +44,10 @@ sites:
     check: "tcp-ping"
     url: 209.140.194.50
     port: 53
+  - name: Test Fake DNS Server
+    check: "tcp-ping"
+    url: 209.140.194.1
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
