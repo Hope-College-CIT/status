@@ -36,6 +36,14 @@ sites:
     url: https://hope.collegescheduler.com/entry
   - name: EMS Web App
     url: https://events.hope.edu/
+  - name: Ebon DNS Server
+    check: "tcp-ping"
+    url: 209.140.194.2
+    port: 53
+  - name: Amber DNS Server
+    check: "tcp-ping"
+    url: 209.140.194.50
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
