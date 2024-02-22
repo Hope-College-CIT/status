@@ -228,19 +228,19 @@
     "url": "https://wths.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/wths.hope.edu.ico",
     "slug": "wths-hope-edu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 1308,
-    "timeWeek": 1160,
-    "timeMonth": 1079,
-    "timeYear": 1079,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1085,
+    "timeDay": 1290,
+    "timeWeek": 1174,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-02-22": 1
+      "2024-02-22": 11
     }
   },
   {
