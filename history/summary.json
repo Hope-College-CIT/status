@@ -13,7 +13,7 @@
     "time": 1677,
     "timeDay": 1754,
     "timeWeek": 1449,
-    "timeMonth": 1730,
+    "timeMonth": 1645,
     "timeYear": 1652,
     "dailyMinutesDown": {
       "2024-01-15": 39,
@@ -228,9 +228,9 @@
     "url": "https://wths.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/wths.hope.edu.ico",
     "slug": "wths-hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -239,7 +239,9 @@
     "timeWeek": 1160,
     "timeMonth": 1079,
     "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 1
+    }
   },
   {
     "name": "anchor.hope.edu",
