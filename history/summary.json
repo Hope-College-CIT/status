@@ -6,9 +6,9 @@
     "slug": "hope-edu",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1673,
     "timeDay": 790,
@@ -16,7 +16,6 @@
     "timeMonth": 1634,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2024-02-26": 11,
       "2024-01-15": 39,
       "2024-01-11": 38,
       "2024-01-09": 41,
@@ -264,9 +263,9 @@
     "url": "https://opus.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/opus.hope.edu.ico",
     "slug": "opus-hope-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -275,7 +274,9 @@
     "timeWeek": 5350,
     "timeMonth": 5670,
     "timeYear": 5667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "B-lite",
@@ -342,7 +343,7 @@
     "slug": "schedule-planner",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "30.37%",
+    "uptimeDay": "33.05%",
     "uptimeWeek": "68.88%",
     "uptimeMonth": "92.84%",
     "uptimeYear": "99.01%",
