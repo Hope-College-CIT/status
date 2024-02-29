@@ -266,19 +266,19 @@
     "url": "https://opus.hope.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/opus.hope.edu.ico",
     "slug": "opus-hope-edu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5757,
-    "timeDay": 5010,
-    "timeWeek": 6045,
-    "timeMonth": 5794,
-    "timeYear": 5757,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 5750,
+    "timeDay": 5257,
+    "timeWeek": 5984,
+    "timeMonth": 5785,
+    "timeYear": 5750,
     "dailyMinutesDown": {
-      "2024-02-29": 1
+      "2024-02-29": 27
     }
   },
   {
