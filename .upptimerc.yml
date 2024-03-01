@@ -6,10 +6,10 @@ sites:
   - name: hope.edu
     url: https://hope.edu/
     maxResponseTime: 1800 # https://web.dev/ttfb/
-  - name: Fall 2023 Moodle
-    url: https://courses202308.hope.edu/
   - name: Spring 2024 Moodle
     url: https://courses202401.hope.edu/
+  - name: Summer 2024 Moodle
+    url: https://courses202405.hope.edu/
   - name: Moodle Groups
     url: https://groups.hope.edu/
   # - name: 1Hope Login
