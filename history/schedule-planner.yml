@@ -1,7 +1,7 @@
 url: https://hope.collegescheduler.com/entry
-status: up
-code: 200
-responseTime: 1482
-lastUpdated: 2024-03-02T23:14:39.023Z
+status: down
+code: 502
+responseTime: 1048
+lastUpdated: 2024-03-03T07:23:19.124Z
 startTime: 2022-02-08T14:40:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
