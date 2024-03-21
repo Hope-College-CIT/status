@@ -1,7 +1,7 @@
 url: https://hope.edu/
-status: up
+status: degraded
 code: 200
-responseTime: 1147
-lastUpdated: 2024-03-20T23:16:25.690Z
+responseTime: 5672
+lastUpdated: 2024-03-21T10:55:48.797Z
 startTime: 2021-10-28T15:24:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
